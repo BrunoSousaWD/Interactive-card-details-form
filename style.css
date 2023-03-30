@@ -255,6 +255,7 @@ form label {
     border: none;
     border-radius: 7px;
     background-color: var(--darker-violet);
+    cursor:poitner;
 }
 
 #complete {
